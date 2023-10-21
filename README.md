@@ -22,7 +22,7 @@ Bienvenidos a mi proyecto de análisis de datos sobre la criminalidad en España
 * Esta visualización te ayudará a entender la distribución de diferentes tipos de infracciones a lo largo de los años en toda España.
 
 <p align="center">
-  <img src="https://github.com/finixed060113/crimen-project/tree/main/images/dashmap.png" alt="map">
+  <img src="https://github.com/finixed060113/crimen-project/blob/main/images/dashmap.png" alt="map">
 </p>
 
 ## Gráfico de Barras
@@ -32,7 +32,7 @@ Bienvenidos a mi proyecto de análisis de datos sobre la criminalidad en España
 * Es ideal para identificar tendencias y diferencias en la criminalidad en las provincias más grandes.
 
 <p align="center">
-  <img src="https://github.com/finixed060113/crimen-project/tree/main/images/dashgraf.png" alt="graf">
+  <img src="https://github.com/finixed060113/crimen-project/blob/main/images/dashgraf.png" alt="graf">
 </p>
 
 ## Gráfico de Línea

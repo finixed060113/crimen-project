@@ -1,7 +1,7 @@
 # Proyecto de Análisis de Criminalidad en España
 
 <p align="center">
-  <img src="https://github.com/finixed060113/crimen-project/tree/main/images/headphoto.jpeg" alt="headphoto">
+  <img src="https://github.com/finixed060113/crimen-project/blob/main/images/headphoto.jpeg" alt="headphoto">
 </p>
 
 ## Contenido
